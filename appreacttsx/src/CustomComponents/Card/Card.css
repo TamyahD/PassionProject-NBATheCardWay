@@ -1,0 +1,55 @@
+.cardContainer {
+    height: 18rem;
+    width: 15rem;
+	background: linear-gradient(45deg, #49a09d, #5f2c82);
+    border-radius: 8px;
+    margin: 2rem;
+    color: whitesmoke;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+
+}
+.fName {
+    padding: 0;
+    padding-top: 10px;
+}
+.lName {
+    padding: 0;
+}
+.playerImg {
+    /* background-color: rgb(224, 224, 224); */
+    height: 8rem;
+    width: 11rem;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+h3 {
+    color: whitesmoke;
+    margin: 0;
+}
+.position {
+    font-size: 17px;
+    font-weight: 530;
+    margin: 5px;
+    color: black;
+}
+.signature {
+    /* margin: 0; */
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-weight: 650;
+    font-style: italic;
+    color: rgb(65, 246, 255);
+}
+.teamAbbreviation {
+    font-size: 18px;
+    font-weight: bolder;
+    margin: 0;
+}
+.teamName {
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+    font-variant: small-caps;
+}
